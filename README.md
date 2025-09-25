@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekA87
 - 👀 I’m interested in data analytics insights
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning deep learning models 
 - 💞️ I’m looking to collaborate on new roles 
 - 📫 How to reach me abhishek87@live.in
 
